@@ -1,3 +1,6 @@
+### Nama: Lathifah Sahda
+### NRP: 5025221159
+
 # Sistem Enkripsi RSA dan DES
 
 Proyek ini mendemonstrasikan sistem komunikasi aman yang mengintegrasikan enkripsi RSA untuk pertukaran kunci dan enkripsi DES (Data Encryption Standard) untuk komunikasi data. Proyek ini melibatkan tiga komponen utama:
