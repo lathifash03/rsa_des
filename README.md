@@ -104,6 +104,7 @@ python responder_b.py
 
 Proyek ini terstruktur sebagai berikut:
 
+```bash
 rsa_des_encryption_system/
 ├── initiator_a.py            # Kode Initiator A untuk menangani komunikasi dan enkripsi
 ├── responder_b.py            # Kode Responder B untuk menerima dan mendekode pesan
@@ -116,7 +117,7 @@ rsa_des_encryption_system/
 ├── server_private.pem        # Kunci privat Server (PKA)
 ├── server_public.pem         # Kunci publik Server (PKA)
 └── README.md                 # Dokumentasi Proyek (file ini)
-
+```
 
 ## **Pertimbangan Keamanan**
 
